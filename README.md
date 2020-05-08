@@ -5,6 +5,9 @@ The user can navigate between verses using an on-screen dropdown or on-screen bu
 # Installation
 This project was developed using Flutter. Visit flutter's [installtion guide](https://flutter.dev/docs/get-started/install) for installation instructions.
 
+# Technologies
+Flutter, Dart.
+
 # Screenshots
 <p float="left">
   <img src="screenshots/1.png" width="224" />
